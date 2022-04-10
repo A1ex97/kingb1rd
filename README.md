@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Android technologies and architectures (Clean architecture, Kotlin Flows, Jetpack Compose, etc.)**
 
-- ⚡ Fun fact **I can solve the Rubik's Cube in less than 15 seconds**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evgeny-chebotarev-349226119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeny-chebotarev-349226119" height="30" width="40" /></a>
